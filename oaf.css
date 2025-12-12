@@ -1,0 +1,17 @@
+body{
+    background-color: #e5e2fd;
+    color: #2d275a;
+}
+#header{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 50px;
+}
+.footer{
+    color:#2d275a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    text-align: right;
+    padding-top: 10px;
+    clear: both;
+}
