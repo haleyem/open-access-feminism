@@ -5,5 +5,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>open access feminism</title>
         <link href="oaf.css" rel="stylesheet" media="screen"/>
+        <body>
+            <h1>feminist theory resources</h1>
+            <nav>
+                <ul>
+                    <li class="nav">
+                        <a href="home.html">home</a>
+                    </li>
+                    <li class="nav">
+                        <a href="hm.html">etc</a>
+                    </li>
+                </ul>
+            </nav>
+        </body>
     </head>
 </html>
